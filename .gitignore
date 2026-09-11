@@ -9,5 +9,6 @@ data/processed/*
 !data/processed/.gitkeep
 model/checkpoints/*.pt
 logs/*.jsonl
+!logs/predictions_sample.jsonl
 .ipynb_checkpoints/
 .DS_Store
