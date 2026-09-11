@@ -1,0 +1,6 @@
+{"image_path": "data/processed/val/crazing/crazing_241.jpg", "predicted_class": "crazing", "confidence": 0.9995, "timestamp": 1789158240.7089}
+{"image_path": "data/processed/val/patches/patches_241.jpg", "predicted_class": "patches", "confidence": 0.9944, "timestamp": 1789158928.9721}
+{"image_path": "data/processed/val/inclusion/inclusion_241.jpg", "predicted_class": "inclusion", "confidence": 0.9417, "timestamp": 1789159180.2279}
+{"image_path": "data/processed/val/rolled-in_scale/rolled-in_scale_241.jpg", "predicted_class": "rolled-in_scale", "confidence": 0.9723, "timestamp": 1789159313.9067}
+{"image_path": "data/processed/val/scratches/scratches_241.jpg", "predicted_class": "scratches", "confidence": 0.9812, "timestamp": 1789159400.1122}
+{"image_path": "data/processed/val/pitted_surface/pitted_surface_241.jpg", "predicted_class": "pitted_surface", "confidence": 0.9650, "timestamp": 1789159450.3344}
