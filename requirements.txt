@@ -1,0 +1,15 @@
+torch
+torchvision
+scikit-learn
+pillow
+numpy
+pandas
+streamlit
+langgraph
+langchain
+langchain-groq
+python-dotenv
+mcp
+fastapi
+uvicorn
+pytest
